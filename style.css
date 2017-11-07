@@ -23,7 +23,7 @@ header h3 a {
 }
 nav ul {
   padding: 0;
-  margin-top: 40px;
+  margin-top: 40px 0px 0px 0px;
 }
 
 nav ul li {
